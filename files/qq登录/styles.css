@@ -1,0 +1,66 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/qq登录/bg.png');
+  background-position:left top;
+  background-repeat:repeat-x;
+  background-attachment:scroll;
+  background-size:38px 660px;
+  position:relative;
+  left:-54px;
+  width:504px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u101_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:504px;
+  height:330px;
+}
+#u101 {
+  position:absolute;
+  left:54px;
+  top:64px;
+  width:504px;
+  height:330px;
+}
+#u102 {
+  position:absolute;
+  left:2px;
+  top:157px;
+  width:500px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u103_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:90px;
+  height:35px;
+}
+#u103 {
+  position:absolute;
+  left:369px;
+  top:286px;
+  width:90px;
+  height:35px;
+  font-size:16px;
+}
+#u103_img.mouseOver {
+}
+#u103.mouseOver {
+}
+#u104 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:86px;
+  word-wrap:break-word;
+}
