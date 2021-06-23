@@ -5,7 +5,7 @@ https://zhaolinyang.ltd/lnvc-LiuYibo-zhuangxiuwangzhan/
 
 
 # 源码下载
-https://zhaolinyang.ltd/lnvc-LiuYibo-zhuangxiuwangzhan/
+https://github.com/laddzhao/lnvc-LiuYibo-zhuangxiuwangzhan/raw/main/%E5%88%98%E4%BB%AA%E5%8D%9A%E6%BA%90%E7%A0%81.rp
 
 
 
