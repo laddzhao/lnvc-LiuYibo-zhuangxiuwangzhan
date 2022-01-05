@@ -1,4 +1,4 @@
-<a href="https://github.com/laddzhao/lnvc-LiuYibo-zhuangxiuwangzhan"><img width="700" src="https://zhaolinyang.ltd/images/刘仪博装修网站.gif" /></a>
+<a href="https://github.com/laddzhao/lnvc-LiuYibo-zhuangxiuwangzhan"><img width="700" src="http://kzxs.org.cn/images/刘仪博装修网站.gif" /></a>
 
 # 辽宁职业学院GitHub开源项目—刘仪博 装修网站源码
 http://kzxs.org.cn/lnvc-LiuYibo-zhuangxiuwangzhan/
